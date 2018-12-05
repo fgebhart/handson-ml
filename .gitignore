@@ -1,2 +1,5 @@
 .ipynb_checkpoints
+files/
+datasets/
 images/
+*.pkl
