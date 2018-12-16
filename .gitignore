@@ -4,3 +4,4 @@ datasets/
 images/
 *.pkl
 *.gz
+mnist-tensorboard/
